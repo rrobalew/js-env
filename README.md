@@ -10,7 +10,7 @@ Link to [a URL](https://github.com "GitHub")
 [github]: https://github.com "GitHub"
 Link to [a URL][github] via a reference
 
-Insert an image ![OctoCat](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png "OctoCat")
+Insert an image ![OctoCat](Octocat.png "OctoCat")
 
 Create an unordered list:
 * item
@@ -32,7 +32,7 @@ Create a table:
 | Last Item 1    | Last Item 2    | Last Item 3     |
 
 
-Include `inline code` or a code blocks with syntax highlighting:
+Include `inline code` or code blocks with syntax highlighting:
 
 ```javascript
 function square(num) {
@@ -43,7 +43,7 @@ function square(num) {
 ```css
 span.highlight {
    color: red;
-   font-weight bold;
+   font-weight: bold;
 }
 ```
 
