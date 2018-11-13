@@ -10,7 +10,7 @@ Link to [a URL](https://github.com "GitHub")
 [github]: https://github.com "GitHub"
 Link to [a URL][github] via a reference
 
-Insert an image ![OctoCat](Octocat.png "/OctoCat")
+Insert an image ![OctoCat](/Octocat.png "OctoCat")
 
 Create an unordered list:
 * item
